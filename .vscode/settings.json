@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.md": "markdown",
+        "iostream": "cpp"
+    }
+}
